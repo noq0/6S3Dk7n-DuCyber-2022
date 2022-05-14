@@ -1,8 +1,7 @@
-# Organiser_la_récolte_de_données
-
+# Organiser la récolte de données
 # Sommaire
 
-- [Organiser_la_récolte_de_données](#organiser_la_récolte_de_données)
+- [Organiser la récolte de données](#organiser-la-récolte-de-données)
 - [Sommaire](#sommaire)
 - [Documentation additionelle](#documentation-additionelle)
   - [Configuration et installation de l'agent elastic](#configuration-et-installation-de-lagent-elastic)

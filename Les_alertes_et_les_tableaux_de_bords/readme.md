@@ -1,8 +1,8 @@
-# Les_alertes_et_les_tableaux_de_bords
+# Les alertes et les tableaux de bords
 
 # Sommaire
 
-- [Les_alertes_et_les_tableaux_de_bords](#les_alertes_et_les_tableaux_de_bords)
+- [Les alertes et les tableaux de bords](#les-alertes-et-les-tableaux-de-bords)
 - [Sommaire](#sommaire)
 - [Sources](#sources)
 

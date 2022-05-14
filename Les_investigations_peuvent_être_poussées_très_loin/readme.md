@@ -1,7 +1,7 @@
-# Les_investigations_peuvent_être_poussées_très_loin
+# Les investigations peuvent être poussées très loin
 # Sommaire
 
-- [Les_investigations_peuvent_être_poussées_très_loin](#les_investigations_peuvent_être_poussées_très_loin)
+- [Les investigations peuvent être poussées très loin](#les-investigations-peuvent-être-poussées-très-loin)
 - [Sommaire](#sommaire)
 - [Listes des sources ayant aidé pour la création de l'article :](#listes-des-sources-ayant-aidé-pour-la-création-de-larticle-)
   - [Etudes de cas, vidéos et articles](#etudes-de-cas-vidéos-et-articles)

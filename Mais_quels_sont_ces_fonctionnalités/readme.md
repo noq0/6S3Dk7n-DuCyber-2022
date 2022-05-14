@@ -1,5 +1,7 @@
+# Mais quels sont ces fonctionnalités
 # Sommaire 
 
+- [Mais quels sont ces fonctionnalités](#mais-quels-sont-ces-fonctionnalités)
 - [Sommaire](#sommaire)
 - [Listes des sources ayant aidé pour la création de l'article :](#listes-des-sources-ayant-aidé-pour-la-création-de-larticle-)
   - [Etudes de cas, vidéos et articles](#etudes-de-cas-vidéos-et-articles)
