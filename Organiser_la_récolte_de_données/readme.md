@@ -34,15 +34,15 @@ Pas de service à activer, ni de préconfiguration à faire :
 Dans le menu déroulant à gauche, rendez vous dans `Management > Fleet` cette partie permet de visualiser les agents connectés. 
 Dans l'onglet horizontal, séléctionnez `agent policies` et créez une nouvelle police pour les agents (pensez à créer un namespace pour attribuer les ressources à ce namespace :
 
-<img src="assets/capture agent 01.png" width="100%"/>
+<img src="Assets/capture-agent-01.png" width="100%"/>
 
 Un tocken d'enrollement est automatiquement configuré :
 
-<img src="assets/capture agent 02.png" width="100%"/>
+<img src="Assets/capture-agent-02.png" width="100%"/>
 
 Créez un agent pour le déployer sur la VM de test :
 
-<img src="assets/capture agent 03.png" width="100%"/>
+<img src="Assets/capture-agent-03.png" width="100%"/>
 
 ### Installer l'agent 
 
@@ -67,7 +67,7 @@ J'ajoute ici la commande pour désinstaller l'agent, et quelques autres commande
 Pour être sûr que cette première configuration fonctionne, on vérifieras la présence de ce nouvel agent via l'interface Kibana/FLEET sur le serveur Elastic. On attendras que son statut soit vert, si besoin, débugger lavec la doc elasticsearch, et les commandes/infos ci-dessus :
 - Il semble aussi que la VM ai besoin d'un redémarrage pour que l'agent retourne un statut `Healthy`
 
-<img src="assets/capture agent 04.png" width="100%"/>
+<img src="Assets/capture-agent-04.png" width="100%"/>
 
 ### standalone elastic agent
 > elastic agent peut être installé en mode standalone sans serveur. c'est ce que nous allons faire pour ce tuto. pas de mode automatique car nous sommes en mode gestion de projet, et pas en mode production.
@@ -84,7 +84,7 @@ Retourner dans l'interface de gestion des agents Fleet, et choissez la police de
 
 ## Intégrations utilisées pour le projet
 
-<img src="Assets/integration 01.PNG" width="100%"/>
+<img src="Assets/integration-01.PNG" width="100%"/>
 
 Comment ajouter une intégration ? 
 - https://www.youtube.com/watch?v=pnGXjljuEnY
