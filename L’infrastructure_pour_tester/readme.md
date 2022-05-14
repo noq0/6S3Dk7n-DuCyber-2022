@@ -4,9 +4,8 @@
 - [Sommaire](#sommaire)
 - [Listes des sources ayant aidé pour la création de l'article :](#listes-des-sources-ayant-aidé-pour-la-création-de-larticle-)
   - [Etudes de cas, vidéos et articles](#etudes-de-cas-vidéos-et-articles)
-- [sources supplémentaires :](#sources-supplémentaires-)
   - [documentation elasticsearch](#documentation-elasticsearch)
-  - [ressources techniques :](#ressources-techniques-)
+  - [outils](#outils)
 - [Documentaiton et notes supplémentaires](#documentaiton-et-notes-supplémentaires)
   - [Configurer la suite elastic Checklist](#configurer-la-suite-elastic-checklist)
   - [Préparation de l'hôte Windows - Checklist](#préparation-de-lhôte-windows---checklist)
@@ -17,29 +16,28 @@
       - [Caractéristique de la VM pour les tests :](#caractéristique-de-la-vm-pour-les-tests-)
       - [Procédure d'installation sur debian](#procédure-dinstallation-sur-debian)
       - [Première connexion web au service kibana](#première-connexion-web-au-service-kibana)
-    - [standalone elastic agent](#standalone-elastic-agent)
 
 # Listes des sources ayant aidé pour la création de l'article :
 ## Etudes de cas, vidéos et articles
-# sources supplémentaires : 
 - https://isc.sans.edu/forums/diary/Malware+Analysis+with+elasticagent+and+Microsoft+Sandbox/27248/
 - https://www.elastic.co/fr/blog/how-to-build-a-malware-analysis-sandbox-with-elastic-security
+- 
 
 ## documentation elasticsearch
-- 
+- Installing the elastic stack : https://www.elastic.co/guide/en/elastic-stack/current/installing-elastic-stack.html
 
-## ressources techniques :
-- 
+## outils
+- Flare VM : https://github.com/mandiant/flare-vm 
 
 # Documentaiton et notes supplémentaires
 ## Configurer la suite elastic Checklist
 
 - Créez un namespace personnalisé pour attribuer toute les données récupérées sur ce namesapce
-- Déployer l'agent Elasticsearch avec la procédure
-- Ajouter les intégrations avec la liste des intégrations non exausthive (au minimum l'intégration elastic security)
-- Configurer la politique de paramètres pour endpoint security
+- Déployer l'agent Elasticsearch
+- Ajouter les intégrations avec la liste des intégrations non exausthive (au minimum l'intégration elastic security).
+- Configurer la politique de paramètres pour endpoint security.
 - configurer votre moteur de détection Elastic (étiquetées comme règles).
-- Activer toute les règles
+- Activer toute les règles de détection
 
 ## Préparation de l'hôte Windows - Checklist
 
@@ -126,14 +124,7 @@ network.bind_host: ["192.168.220.185", "localhost"]
 network.publish_host: 192.168.220.185
 ```
 
-
 - Note pour la suite : penser à sécuriser l'accès avec un mot de passe : l'app viens préinstallé sans portail d'authentification.
 - Penser à ouvir l'accès à un réseau local pour faire remonter les données d'un agent elastic à partir d'une secondde VM.
 - La prochaine fois c'est la configuration de elastik et de kibana pour acccéder au service depuis l'extérieur de la VM.
 
-### standalone elastic agent
-> elastic agent peut être installé en mode standalone sans serveur. c'est ce que nous allons faire pour ce tuto. pas de mode automatique car nous sommes en mode gestion de projet, et pas en mode production.
-> 
-6) Modifiez votre configuration : localisation des fichiers de configuration : `/etc/elasticsearch` : penser à redémarrer le service si la config change.
-
-https://www.elastic.co/fr/blog/how-to-setup-tls-for-elasticsearch-kibana-logstash-filebeat-with-offline-install-in-linux

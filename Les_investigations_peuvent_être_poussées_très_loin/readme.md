@@ -14,6 +14,8 @@
 
 ## documentation elasticsearch
 - Upgrade to the Elastic APM integration : https://www.elastic.co/guide/en/apm/guide/current/upgrade-to-apm-integration.html 
+- EQL Search : https://www.elastic.co/guide/en/elasticsearch/reference/8.2/eql.html
+- Kibana Query Language : https://www.elastic.co/guide/en/kibana/7.6/kuery-query.html
 
 ## ressources techniques :
 - exemples de requêtes OSQUERY : https://github.com/osquery/osquery/tree/master/packs

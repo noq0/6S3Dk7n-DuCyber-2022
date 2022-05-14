@@ -21,6 +21,7 @@
 ## A travers la documentation elastic.co
 - Beats and Elastic Agent capabilities : https://www.elastic.co/guide/en/fleet/8.1/beats-agent-comparison.html
 - Matrice de prise en charge des fonctionnalités elasticsearch : https://www.elastic.co/fr/support/matrix#matrix_compatibility
+- Elastic Security overview : https://www.elastic.co/guide/en/security/master/es-overview.html
 
 # Documentaiton et notes supplémentaires
 ## Présentation d'Elastic security
@@ -29,7 +30,7 @@ Elastic security est un nom commercial englobant plusieurs concepts autour de la
 L'objectif est de fournir des fonctionnalités d'un SIEM (Security Information and Events Management) à travers la suite Elastic grâce aux données intégrées, mais aussi de fournir des outils pour prévenir et agir lors d'attaque informatique. </br>
 L'intégration des modules elastic security se fait de manière transversale sur la stack elasticsearch :
 <p align="center">
-  <img src="assets/elastic security 01.png" width="60%"/>
+  <img src="assets/elastic-security-01.png" width="60%"/>
 </p>
 
 L'entreprise a d'ailleurs fournit un flux de travail (workflow) permettant de comprendre que l'utilité du service peut s'étendre bien au delà d'une simple prévention / détection : il peut réellement servir à une équipe d'un centre d'opération de sécurité (SOC) :
