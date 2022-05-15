@@ -1,4 +1,4 @@
-# Ce GIT est en cours de construction, il seras finalisé dans le week end.
+# Ce GIT est en cours de construction, il seras finalisé avant mercredi
 # Sommaire
 
 Ressources contenant les informations nécéssaires à la création du projet de DU cybersécurité.
