@@ -64,6 +64,10 @@
 - Proxy setup on VMware client to monitor traffic : https://docs.vmware.com/en/VMware-Workstation-Player-for-Windows/16.0/com.vmware.player.win.using.doc/GUID-FAF3EB34-41A4-404D-B841-593D55765A77.html
 - Any other tools you might find useful during the analysis such as this package by @mentebinaria : https://github.com/mentebinaria/retoolkit?s=09
 - https://sourceforge.net/projects/fakenet/
+- https://www.mandiant.com/resources/greater-visibilityt
+- https://malwarearchaeology.com/cheat-sheets
+- https://www.youtube.com/watch?v=IKTpKCIbv3M&list=PL_mJOmq4zsHYod2PeZLLljkeXwKttSF_o&index=7
+- configuration de sysmon
 
 Et évidemment installer l'agent elastic
 

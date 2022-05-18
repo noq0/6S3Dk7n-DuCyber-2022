@@ -17,6 +17,8 @@
 - Limitless XDR : ingérez, conservez et analysez gratuitement des données de sécurité : https://www.elastic.co/fr/blog/introducing-limitless-xdr 
 - EDR ou XDR ? : https://www.elastic.co/fr/pdf/edr-xdr-checklist-2021.pdf
 - Sécurité sans limites : https://www.elastic.co/fr/explore/security-without-limits
+- presentation : https://blog.syone.com/elastic-security-unified-protection-for-everyone
+- log forward elasticsearch : https://youtu.be/IKTpKCIbv3M?list=PL_mJOmq4zsHYod2PeZLLljkeXwKttSF_o&t=595
 
 ## A travers la documentation elastic.co
 - Beats and Elastic Agent capabilities : https://www.elastic.co/guide/en/fleet/8.1/beats-agent-comparison.html

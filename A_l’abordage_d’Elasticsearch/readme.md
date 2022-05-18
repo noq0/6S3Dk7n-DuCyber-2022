@@ -19,6 +19,7 @@
 
 ## documentation elasticsearch
 - Upgrade to the Elastic APM integration : https://www.elastic.co/guide/en/apm/guide/current/upgrade-to-apm-integration.html 
+- elastic ecosystem : https://youtu.be/8JAHxtnZYOI?list=PL_mJOmq4zsHYod2PeZLLljkeXwKttSF_o&t=2085
 
 
 # Documentation additionelle

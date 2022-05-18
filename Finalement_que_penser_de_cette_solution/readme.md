@@ -26,3 +26,10 @@ Référencement des articles de blogs intéressant sur la sécurité dans elasti
 - https://www.elastic.co/fr/blog/hunting-for-lateral-movement-using-event-query-language
 - https://www.elastic.co/fr/blog/practical-security-engineering-stateful-detection
 - https://www.elastic.co/fr/blog/advanced-techniques-used-in-malaysian-focused-apt-campaign
+- https://www.elastic.co/fr/blog/author/mark-dufresne
+- https://www.av-comparatives.org/vendors/elastic/
+- https://www.elastic.co/fr/blog/author/jamie-butler
+- https://www.youtube.com/playlist?list=PLhLSfisesZIu91mWjY4ZXNqOfwlnnOi2U
+- https://www.youtube.com/playlist?list=PLhLSfisesZIsYgM2m0SKMV69Malelua2i
+- https://www.youtube.com/playlist?list=PL_mJOmq4zsHYod2PeZLLljkeXwKttSF_o
+- 

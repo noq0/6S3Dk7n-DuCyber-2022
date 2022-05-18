@@ -23,9 +23,15 @@
 - exemples de requêtes OSQUERY : https://github.com/osquery/osquery/tree/master/packs
 
 # Documentation complémentaire
-
+Elastic vocabulary :
+- Cluster : group of notes that work together to operate elasticsearch
+- Node : Java process that runs the Elastoicsearch software
+- Index : A group of shards that form a logical datastore
+- Segment : A lucene segment that immutably stores a portion of a lucene index
+- Document : A record that is submitted to and retrieved forma an elasticsearch index.
 ## Quelques exemples de recherches KQL
 
 ## Quelques exemples de recherches EQL
 
 ## Quelques exemples de recherches OSQUERY
+

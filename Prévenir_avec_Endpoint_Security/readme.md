@@ -1,0 +1,2 @@
+- https://www.elastic.co/guide/en/security/8.2/unusual-print-spooler-child-process.html
+- https://securityboulevard.com/2021/07/printnightmare-how-to-check-if-your-systems-are-still-vulnerable/ 
